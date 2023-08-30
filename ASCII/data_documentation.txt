@@ -5,3 +5,5 @@ Data in files are outputs of the landscape evolution model DAC (Divide And Captu
 3) the river node pairs across divides, no_channel_connectionxxx
 
 The xxx in the file names stands for the time steps and it can be converted into model time.
+
+The ASCII folder stores 10 files of each series.
