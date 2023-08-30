@@ -1,6 +1,8 @@
 # landscape_physiographic_patchness
 This repository stores MATLAB codes of a patch model that calculates and visualizes physiographic patches of a landscape evolution model and patch changes through time.  
 
+This habitat model was invented to explore the habitat (combinations of physiographic parameters' value ranges) evolution of a retreating escarpment. The manuscript _"Escarpment Evolution Drives the Diversification of the Madagascar Flora"_ has been submitted to _Science_. Revisions of the manuscript will be submitted soon. 
+
 ## 1. Physiographic patch
 The land surface (location and height) can be represented by a series of elemental surfaces ( _Si(x, y, z)_ ). When defining a certain range of physiographic parameters, for example, elevation or hillslope gradient, elemental surfaces with parametric values falling in this range may be connected and form a contiguous patch of surface. Physiographic parameters used in this model are elevation, hillslope gradient, and hillslope aspect.
 
@@ -18,7 +20,6 @@ Topographic data from LEMs are read into the MATLAB code. The topography data ar
 Each individual patch is tracked and flagged with unique identities to track the temporal changes of patches. Types of patch change are birth, death, split, merge, and deform. Consecutive steps are compared to identify different types of patch changes. 
 ![patch_evolution_carton_illustration_version2](https://github.com/yanyanwangesd/landscape_physiographic_patchness/assets/108676831/32f4828c-cbf5-4f8e-857f-258fd84af6cf)
 
-## 5. Publications
-This habitat model was invented to explore the habitat (combinations of physiographic parameters' value ranges) evolution of a retreating escarpment. The manuscript _"Escarpment Evolution Drives the Diversification of the Madagascar Flora"_ has been submitted to _Science_. Revisions of the manuscript will be submitted soon. 
+
 
 
