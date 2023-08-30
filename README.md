@@ -1,4 +1,6 @@
 # landscape_physiographic_patchness
+[![DOI](https://zenodo.org/badge/684976091.svg)](https://zenodo.org/badge/latestdoi/684976091)
+
 This repository stores MATLAB codes of a patch model that calculates and visualizes physiographic patches of a landscape evolution model and patch changes through time.  
 
 This landscape physiographic patch model was invented to explore the characteristic habitat (combinations of physiographic parameters' value ranges) evolution of a retreating escarpment. The manuscript _"Escarpment Evolution Drives the Diversification of the Madagascar Flora"_ has been submitted to _Science_. Revisions of the manuscript will be submitted soon. 
@@ -30,7 +32,8 @@ Each individual patch is tracked and flagged with unique identities to track the
 Technical support or discussions of the methodology are welcome, please contact Dr. Yanyan Wang via email (yanyan.wang@erdw.ethz.ch or wangyanyan0607@hotmail.com).
 
 ## 7. Citation
-The manuscript URL will be provided soon.
+- Please cite the repository through [![DOI](https://zenodo.org/badge/684976091.svg)](https://zenodo.org/badge/latestdoi/684976091)
+- The manuscript URL is coming soon.
 
 
 
