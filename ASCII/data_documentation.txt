@@ -1,0 +1,7 @@
+Data in files are outputs of the landscape evolution model DAC (Divide And Capture). Three series of files are stored:
+
+1) the coordinates of rivers, coordinatesxxx
+2) the coordinates of divides, dividesxxx
+3) the river node pairs across divides, no_channel_connectionxxx
+
+The xxx in the file names stands for the time steps and it can be converted into model time.
