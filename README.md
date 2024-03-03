@@ -15,7 +15,7 @@ The figure below shows a modeled landscape (colored), with patches (dark) that h
 The patch model uses topographic data (location and height, _x_, _y_, _z_ ) of landscape evolution models (LEMs) to calculate patches that are defined by physiographic parameters. 
 
 ## 3. Numerical definition of patches
-Topographic data from LEMs are read into the MATLAB code. The topography data are interpolated onto a regular grid when necessary because some LEMs use irregular grids. Physiographic parameters are calculated for elemental surfaces. When defining a combination of ranges of physiographic parameters, elemental surfaces that meet this combination would form clusters on the (_x_, _y_) plane, shown as the dark cluster on the figure below. These patches are then identified with image functions in MATLAB.  
+Topographic data from LEMs are read into the MATLAB code. The topography data are interpolated onto a regular grid when necessary because some LEMs use irregular grids. Physiographic parameters are calculated for elemental surfaces. When defining a combination of ranges of physiographic parameters, elemental surfaces that meet this combination would form clusters on the (_x_, _y_) plane, shown as the dark cluster in the figure below. These patches are then identified with image functions in MATLAB.  
 ![escarpment_topo_example_patch](https://github.com/yanyanwangesd/landscape_physiographic_patchness/assets/108676831/8f08157a-02d8-4e97-a52b-2a966415c59d)
 
 ## 4. Patch change types
@@ -36,5 +36,18 @@ Technical support or discussions of the methodology are welcome, please contact 
 - Please cite the repository through [![DOI](https://zenodo.org/badge/684976091.svg)](https://zenodo.org/badge/latestdoi/684976091)
 - The paper is free-access through the URL: [https://www.science.org/stoken/author-tokens/ST-1688/full](https://www.science.org/stoken/author-tokens/ST-1688/full)
 
+  Bibtex:
+```
+@article{liu2024escarpment,
+  title={Escarpment evolution drives the diversification of the Madagascar flora},
+  author={Liu, Yi and Wang, Yanyan and Willett, Sean D and Zimmermann, Niklaus E and Pellissier, Lo{\"\i}c},
+  journal={Science},
+  volume={383},
+  number={6683},
+  pages={653--658},
+  year={2024},
+  publisher={American Association for the Advancement of Science}
+}
+```
 
 
