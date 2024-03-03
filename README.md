@@ -32,8 +32,9 @@ Each individual patch is tracked and flagged with unique identities to track the
 Technical support or discussions of the methodology are welcome, please contact Dr. Yanyan Wang via email (yanyan.wang@erdw.ethz.ch or wangyanyan0607@hotmail.com).
 
 ## 7. Citation
+- Please cite the paper Liu, Y., Wang, Y., Willett, S.D., Zimmermann, N.E. and Pellissier, L., 2024. Escarpment evolution drives the diversification of the Madagascar flora. Science, 383(6683), pp.653-658. DOI: [10.1126/science.adi0833](https://doi.org/10.1126/science.adi0833)
 - Please cite the repository through [![DOI](https://zenodo.org/badge/684976091.svg)](https://zenodo.org/badge/latestdoi/684976091)
-- The manuscript URL is coming soon.
+- The paper is free-access through the URL: [https://www.science.org/stoken/author-tokens/ST-1688/full](https://www.science.org/stoken/author-tokens/ST-1688/full)
 
 
 
