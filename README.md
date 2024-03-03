@@ -36,7 +36,7 @@ Technical support or discussions of the methodology are welcome, please contact 
 - Please cite the repository through [![DOI](https://zenodo.org/badge/684976091.svg)](https://zenodo.org/badge/latestdoi/684976091)
 - The paper is free-access through the URL: [https://www.science.org/stoken/author-tokens/ST-1688/full](https://www.science.org/stoken/author-tokens/ST-1688/full)
 
-  Bibtex:
+  BibTex:
 ```
 @article{liu2024escarpment,
   title={Escarpment evolution drives the diversification of the Madagascar flora},
