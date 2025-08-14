@@ -29,7 +29,7 @@ Each individual patch is tracked and flagged with unique identities to track the
 - The script _plot_patch_change_histograms.m_ plots histograms of patch changes. 
 
 ## 6. Technical help
-Technical support or discussions of the methodology are welcome, please contact Dr. Yanyan Wang via email (yanyan.wang@erdw.ethz.ch or wangyanyan0607@hotmail.com).
+Technical support or discussions of the methodology are welcome, please contact Dr. Yanyan Wang via email (yanyan.wang@eaps.ethz.ch or wangyanyan0607@hotmail.com).
 
 ## 7. Citation
 - Please cite the paper Liu, Y., Wang, Y., Willett, S.D., Zimmermann, N.E. and Pellissier, L., 2024. Escarpment evolution drives the diversification of the Madagascar flora. Science, 383(6683), pp.653-658. DOI: [10.1126/science.adi0833](https://doi.org/10.1126/science.adi0833)
